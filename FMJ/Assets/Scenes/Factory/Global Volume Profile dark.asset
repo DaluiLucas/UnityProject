@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
   m_Name: Fog
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   m_AdvancedMode: 1
   quality:
     m_OverrideState: 1
@@ -156,29 +156,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f086a068d4c5889438831b3ae9afc11c, type: 3}
   m_Name: Tonemapping
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   m_AdvancedMode: 0
   mode:
     m_OverrideState: 1
     m_Value: 3
   toeStrength:
     m_OverrideState: 1
-    m_Value: 0.045
+    m_Value: 0.553
     min: 0
     max: 1
   toeLength:
     m_OverrideState: 1
-    m_Value: 0.566
+    m_Value: 1
     min: 0
     max: 1
   shoulderStrength:
     m_OverrideState: 1
-    m_Value: 0.591
+    m_Value: 0.493
     min: 0
     max: 1
   shoulderLength:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 0.32
     min: 0
   shoulderAngle:
     m_OverrideState: 1
@@ -335,7 +335,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   temperature:
     m_OverrideState: 1
-    m_Value: 100
+    m_Value: 18
     min: -100
     max: 100
   tint:
@@ -644,14 +644,14 @@ MonoBehaviour:
   m_AdvancedMode: 0
   indirectDiffuseLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 2
     min: 0
   indirectDiffuseLightingLayers:
     m_OverrideState: 0
     m_Value: 255
   reflectionLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 0.075
+    m_Value: 0
     min: 0
   reflectionLightingLayers:
     m_OverrideState: 0
