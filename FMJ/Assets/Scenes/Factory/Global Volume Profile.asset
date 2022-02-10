@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f086a068d4c5889438831b3ae9afc11c, type: 3}
   m_Name: Tonemapping
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   mode:
     m_OverrideState: 1
@@ -213,7 +213,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   rotation:
     m_OverrideState: 1
-    m_Value: 360
+    m_Value: 359.4
     min: 0
     max: 360
   skyIntensityMode:
@@ -221,7 +221,7 @@ MonoBehaviour:
     m_Value: 0
   exposure:
     m_OverrideState: 1
-    m_Value: 6
+    m_Value: 8
   multiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -335,12 +335,12 @@ MonoBehaviour:
   m_AdvancedMode: 0
   temperature:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -13
     min: -100
     max: 100
   tint:
     m_OverrideState: 0
-    m_Value: 0
+    m_Value: -19
     min: -100
     max: 100
 --- !u!114 &4522287543206991573
@@ -368,10 +368,10 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 4.5
   compensation:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: -0.27
   limitMin:
     m_OverrideState: 0
     m_Value: -1
@@ -546,12 +546,12 @@ MonoBehaviour:
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 0.26
     min: 0
     max: 1
   scatter:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.19
     min: 0
     max: 1
   tint:
@@ -591,7 +591,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ddcec8a8eb2d684d833ac8f5d26aebd, type: 3}
   m_Name: HDShadowSettings
   m_EditorClassIdentifier: 
-  active: 0
+  active: 1
   m_AdvancedMode: 0
   maxShadowDistance:
     m_OverrideState: 1
@@ -644,14 +644,14 @@ MonoBehaviour:
   m_AdvancedMode: 0
   indirectDiffuseLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 5
     min: 0
   indirectDiffuseLightingLayers:
     m_OverrideState: 0
     m_Value: 255
   reflectionLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 1.2
+    m_Value: 0.15
     min: 0
   reflectionLightingLayers:
     m_OverrideState: 0
