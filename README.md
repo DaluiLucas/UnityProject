@@ -19,5 +19,5 @@ Project goal was to make a level using Unity and lighting it.
 
 ## Controls 
 
-    -Turn flashlight On/Off (Space)
-    -Interact with switches (E Hard to hit to be honest )
+    - Turn flashlight On/Off (Space)
+    - Interact with switches (E Hard to hit to be honest )
